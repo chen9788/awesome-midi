@@ -33,6 +33,7 @@ This is a curated list of awesome resources for MIDI. Each category contains a l
 ## Web MIDI Controllers
 
 - [webmidicontroller.com](http://webmidicontroller.com/) 🎛️ - An online web MIDI controller that can connect to any MIDI device.
+- [bipluk](https://bipluk.com/) 🎹 - A browser-native Web MIDI librarian for auditioning, backing up, and restoring SysEx patch banks on vintage and modern hardware synthesizers with zero drivers.
 
 ## DAWs and Tools
 
